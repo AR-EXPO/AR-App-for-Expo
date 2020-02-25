@@ -15,11 +15,11 @@ Development considerations:
   - There was questions about crossplatrom compatibility. The best solution we found was developing in iOS since there were more packages and tools for developmetn of the application. We were able to find more established tools for wireframing and developing our application in iOS though it limits not only our users, but also our ability to develop (since not everyone has a mac for programming in swift).
 
 
-## H2 Video
+## Video
 The AR application will use image recognition to identify posters and overlay that teams videos. This is the main goal of our project this term.
 
-## H2 Map
+## Map
 There will be a map feature that will allow attendees to locate project teams. This is for later development if we can get to it.
 
-## H2 Team Members
+## Team Members
 The AR app will also allow users to view more information about each groups team members. This is for later development if we can get to it.
