@@ -14,12 +14,24 @@ Design considerations:
 Development considerations:
   - There was questions about crossplatrom compatibility. The best solution we found was developing in iOS since there were more packages and tools for developmetn of the application. We were able to find more established tools for wireframing and developing our application in iOS though it limits not only our users, but also our ability to develop (since not everyone has a mac for programming in swift).
 
-
+## The App:
+The app will have a few main components, the main one being the AR video overlay. It will also have:
+  1. A homescreen with a few intuitive menues - The Video feature access menu, a tab for viewing colleges presenting, and a tab for viewing all projects. More information on the video aspect below.
+  2. The app will have to communicate with the online portal (becing developed seperately by the online team). The online portal is where presenters (the students) will upload their posters and videos. That is being hosted on an AWS server which we will have to connect to our application so we can access the images and corresponding videos.
+  
 ## Video
 The AR application will use image recognition to identify posters and overlay that teams videos. This is the main goal of our project this term.
+
+How this works is by using image recognition software built into Swift that allows our application to use a users camera to scan a scene infront of the camera lense. Once the scan is complete if an object is recognizable the application will pop up a video. The user will be able to view the video through their phone.
 
 ## Map
 There will be a map feature that will allow attendees to locate project teams. This is for later development if we can get to it.
 
+Specifically the application should in the future allow users to choose a booth that they want to visit and the application will display some arrows on their phones screen through a camera and using arrows direct the user to the booth in question. For this the application will need to:
+  1. access the users current location
+  2. Be able to identify the ground and place virtual arrows in the users camera field of view.
+  3. Will have to have have a database with the location of all booths and the project names.
+
 ## Team Members
 The AR app will also allow users to view more information about each groups team members. This is for later development if we can get to it.
+
