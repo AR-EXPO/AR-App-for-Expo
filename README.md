@@ -24,14 +24,13 @@ The AR application will use image recognition to identify posters and overlay th
 
 How this works is by using image recognition software built into Swift that allows our application to use a users camera to scan a scene infront of the camera lense. Once the scan is complete if an object is recognizable the application will pop up a video. The user will be able to view the video through their phone.
 
-## Map
+## Team Members
+The AR app will also allow users to view more information about each groups team members. This is for later development if we can get to it.
+
+## Map (Postponed)
 There will be a map feature that will allow attendees to locate project teams. This is for later development if we can get to it.
 
 Specifically the application should in the future allow users to choose a booth that they want to visit and the application will display some arrows on their phones screen through a camera and using arrows direct the user to the booth in question. For this the application will need to:
   1. access the users current location
   2. Be able to identify the ground and place virtual arrows in the users camera field of view.
   3. Will have to have have a database with the location of all booths and the project names.
-
-## Team Members
-The AR app will also allow users to view more information about each groups team members. This is for later development if we can get to it.
-
