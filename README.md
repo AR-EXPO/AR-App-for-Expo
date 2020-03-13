@@ -16,8 +16,8 @@ Development considerations:
 
 ## The App:
 The app will have a few main components, the main one being the AR video overlay. It will also have:
-  1. A homescreen with a few intuitive menues - The Video feature access menu, a tab for viewing colleges presenting, and a tab for viewing all projects. More information on the video aspect below.
-  2. The app will have to communicate with the online portal (becing developed seperately by the online team). The online portal is where presenters (the students) will upload their posters and videos. That is being hosted on an AWS server which we will have to connect to our application so we can access the images and corresponding videos.
+  - A homescreen with a few intuitive menues - The Video feature access menu, a tab for viewing colleges presenting, and a tab for viewing all projects. More information on the video aspect below.
+  - The app will have to communicate with the online portal (becing developed seperately by the online team). The online portal is where presenters (the students) will upload their posters and videos. That is being hosted on an AWS server which we will have to connect to our application so we can access the images and corresponding videos.
   
 ## Video
 The AR application will use image recognition to identify posters and overlay that teams videos. This is the main goal of our project this term.
@@ -31,6 +31,6 @@ The AR app will also allow users to view more information about each groups team
 There will be a map feature that will allow attendees to locate project teams. This is for later development if we can get to it.
 
 Specifically the application should in the future allow users to choose a booth that they want to visit and the application will display some arrows on their phones screen through a camera and using arrows direct the user to the booth in question. For this the application will need to:
-  1. access the users current location
-  2. Be able to identify the ground and place virtual arrows in the users camera field of view.
-  3. Will have to have have a database with the location of all booths and the project names.
+  - access the users current location
+  - Be able to identify the ground and place virtual arrows in the users camera field of view.
+  - Will have to have have a database with the location of all booths and the project names.
