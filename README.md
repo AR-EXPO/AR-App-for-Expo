@@ -1,3 +1,16 @@
+# Important Note about running this code. You MUST have xCode installed and Swift as well since this is an iOS application and will only run on Apple products!
+
+Running our code:
+1. Clone repo
+2. Once cloned, open up xCode (make sure swift is installed)
+3. Run the application through an Apple device
+
+Expected output:
+1. You should now see our application on your test device
+2. Open the application
+3. Our app will trigger your camer
+4. Should be able to trigger image recognition and get text output to your xCode console.
+
 # Showcasing Advancements In Technology
 Augmented Reality application for Oregon State University Engineering Expo
 
