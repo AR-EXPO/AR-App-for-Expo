@@ -15,6 +15,9 @@ Running our code:
 
 P.s. if you see a singnture required click on it and sign in with your Apple ID.
 
+If you need a qr code to read, you can check ours at (https://ibb.co/2sHNh6R).
+The results will be printed in the Xcode termainal at this point.
+
 Expected output:
 1. You should now see our application on your test device
 2. Open the application
