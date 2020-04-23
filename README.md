@@ -18,7 +18,7 @@ P.s. if you see a singnture required click on it and sign in with your Apple ID.
 Expected output:
 1. You should now see our application on your test device
 2. Open the application
-3. Our app will trigger your camer
+3. Our app will trigger your camera.
 4. Should be able to trigger image recognition and get text output to your xCode console.
 
 # Showcasing Advancements In Technology
