@@ -30,5 +30,5 @@ Code Freeze:
 - Most of the feedback recieved was not really helpful in technical implimentation of code. Mainly because the majority of users are windows users and could not actually load the program since it runs strictly on xCode and can only be tested using an apple product such as an iPhone or tablet.
 - Feedback given on the code instructions, though most couldn't run it, stated that it seemed straightforward and easy to impliment
 - A few of the comments also mentioned unit testing, suggesting some possible implimentations, but none that would work for our specific application. Most just mentioned that visual testing would be sufficient as is for most of the UI of our app.
-- 
+- One of the comments given stated that the person had actually taken a mobile app developement class and that our code style seemed similar and in good practice.
 
