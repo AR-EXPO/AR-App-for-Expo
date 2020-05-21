@@ -26,9 +26,20 @@ Expected output:
 
 
 Code Freeze:
-- We updated the requirements document to better reflect our current output as noted in some of the reviews, as well 
+Build:
 - Most of the feedback recieved was not really helpful in technical implimentation of code. Mainly because the majority of users are windows users and could not actually load the program since it runs strictly on xCode and can only be tested using an apple product such as an iPhone or tablet.
 - Feedback given on the code instructions, though most couldn't run it, stated that it seemed straightforward and easy to impliment
-- A few of the comments also mentioned unit testing, suggesting some possible implimentations, but none that would work for our specific application. Most just mentioned that visual testing would be sufficient as is for most of the UI of our app.
+
+Legibility:
 - One of the comments given stated that the person had actually taken a mobile app developement class and that our code style seemed similar and in good practice.
+- One comment stated that they found the variables hard to understand, but given that we are implimenting with Swift kits for the AR application, those files and variables that they said were hard to understand are necessary and cannot be changed without possibly crashing our whole application.
+
+Implemention:
+- We updated the requirements document to better reflect our current output as noted in some of the reviews, as well 
+- Again, really did not find comments that we would be able to use in our particular code.
+
+Maintainability:
+- A few of the comments also mentioned unit testing, suggesting some possible implimentations, but none that would work for our specific application. Most just mentioned that visual testing would be sufficient as is for most of the UI of our app.
+
+Other:
 
